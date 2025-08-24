@@ -10,7 +10,7 @@
 ## Как запустить
 1. Клонировать репозиторий:
    ```bash
-   git clone https://github.com/<Tantamel>/marketing-response.git
+   git clone https://github.com/Tantamel/marketing-project.git
    cd marketing-response
 
 
